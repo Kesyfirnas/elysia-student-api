@@ -1,15 +1,15 @@
-# typescript-2
+# REST API Mahasiswa - Elysia.js + Bun
+Kesyfi Anand - Tugas Pengembangan Web lanjut
 
-To install dependencies:
+Project ini merupakan implementasi **HTTP Request Method via REST API** menggunakan framework **Elysia.js** dengan runtime **Bun**.
 
-```bash
-bun install
-```
+REST API ini menyediakan operasi CRUD (Create, Read, Update, Delete) untuk mengelola data mahasiswa.
 
-To run:
+---
 
-```bash
-bun run src/index.ts
-```
+## 🚀 Teknologi yang Digunakan
 
-This project was created using `bun init` in bun v1.4.2. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+- [Bun](https://bun.sh/) - JavaScript Runtime
+- Elysia.js - Web Framework untuk Bun
+- TypeScript - Bahasa pemrograman
+- REST API Architecture
